@@ -1,0 +1,64 @@
+nav ul {
+ text-decoration: none;
+ color: black;
+ display: flex;
+ gap: 60px;
+ list-style: none;
+ justify-content: center;
+}
+.janestuff {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(245, 207, 215);
+    color: black;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgb(177, 177, 177);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+}
+.titulojane {
+    color: black;
+}
+.titulodidi {
+    color: black;
+}
+.didistuff {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    background-color: rgb(165, 135, 179);
+    border-radius: 50px;
+    box-shadow: 3px 3px 5px rgb(177, 177, 177);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+nav {
+    background-color: rgb(196, 162, 212);
+    position: sticky;
+    top: 0;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    width: 100%;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    font-family: sans-serif;
+}
+#biojane {
+    margin-top: 10px;
+}
+body {
+    background-image: url(https://i.pinimg.com/736x/f4/c3/85/f4c3856e2887edcecb4bd1c346298f39.jpg);
+    background-size: auto;
+}
