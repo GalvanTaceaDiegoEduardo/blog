@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg);
+}
+.didistuff {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(243, 241, 226);
+    color: black;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgb(185, 185, 178);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+.titulodidi {
+    color: black;
+    text-align: center;
+}
