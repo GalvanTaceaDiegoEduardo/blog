@@ -1,3 +1,14 @@
+nav {
+    background-color: rgb(196, 162, 212);
+    position: sticky;
+    top: 0;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    width: 100%;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    font-family: sans-serif;
+}
 nav ul {
  display: flex;
  gap: 60px;
@@ -51,17 +62,6 @@ nav ul li a {
     padding-top: 20px;
     margin-bottom: 50px;
 }
-nav {
-    background-color: rgb(196, 162, 212);
-    position: sticky;
-    top: 0;
-    padding-bottom: 1px;
-    padding-top: 1px;
-    width: 100%;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
-    font-family: sans-serif;
-}
 #biojane {
     margin-top: 10px;
 }
@@ -113,4 +113,34 @@ body {
     padding-bottom: 50px;
     padding-top: 20px;
     margin-bottom: 50px;
+}
+.artidivis {
+    text-align: center;
+    background-color: rgb(233, 242, 234);
+    width: 71%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#artículos {
+    background-color: pink;
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#artículos table {
+    margin-left: auto;
+    margin-right: auto;
+}
+#artículos table tr {
+    text-align: center;
+}
+#artículos table tr th {
+    background-color: rgb(196, 162, 212);
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-left: 30px ;
+    padding-right: 30px;
 }
